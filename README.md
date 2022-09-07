@@ -22,11 +22,13 @@ output --> where the two results (a. The average temperature for each city. b. T
 1. R 
 2. Open source R packages (code for installation included in data_pipeline script):
 purrr
-tidyverse,
+tidyverse
 jsonlite
 janitor
 dplyr
 h2o
+rio
+
 3. RStudio IDE (not necessarily required but highly recommended)
 
 Note: this script was developed on R version 4.1.2, some packages may not be updated for very new versions of R, so update your R version at your own risk) 
