@@ -1,7 +1,7 @@
 #title: "Australian city weather pipeline"
 
   ### Overall Script < data pipeline for Australian city weather > ------------------------------------------------------------
-# written by   : Sierra
+# written by   : supreme overlord of doom
 # written on   : 6/09/2022        
 # purpose      : 1. imports all x number of json files in assigned folder with 24hr weather for a city
 # purpose      : 2. maps all json files into one data frame (df) and cleans it and transforms into:
