@@ -23,7 +23,8 @@ pacman::p_load(
   jsonlite,
   janitor,
   dplyr,
-  h2o)
+  h2o,
+  rio)
   
 #  ------- choose your path -------------------
 my_path <- "/Users/JohnSnow/Documents/" # CHANGE ME to your local path stem 
