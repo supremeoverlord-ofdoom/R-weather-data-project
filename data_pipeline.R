@@ -26,7 +26,7 @@ pacman::p_load(
   h2o)
   
 #  ------- choose your path -------------------
-my_path <- "/Users/sierramcdowell/Documents/" # CHANGE ME to your local path stem 
+my_path <- "/Users/JohnSnow/Documents/" # CHANGE ME to your local path stem 
 #-----------------------------------------------
 
 git_path <- "GitHub/city-weather-data-pipeline/raw_data" #path from github repository
